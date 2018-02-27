@@ -1,2 +1,1 @@
-# RapidWeaver8-releases
-Public releases for RapidWeaver 8
+8.0-(19161b)
